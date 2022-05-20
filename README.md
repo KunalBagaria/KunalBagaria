@@ -5,8 +5,9 @@ I'm a Software Engineer
 -----------------------
 
 * 🌍  I'm based in a remote town in India
-* ✉️  You can contact me at [hi@kunalbagaria.com](mailto:hi@kunalbagaria.com)
-* 🚀  I'm currently working on [wagmi.bio](https://wagmi.bio) and [Wordcel](https://wordcel.club)
+* 🍥  I've built [wagmi.bio](https://wagmi.bio)
+* ✉️  You can contact me at [hi@kunalbagaria.com](mailto:hi@kunalbagaria.com)
+* 🚀  I'm currently working [Wordcel](https://wordcel.club)
 
 <a href="https://www.twitter.com/kb24x7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kb24x7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -36,6 +37,8 @@ src="https://img.shields.io/twitter/follow/kb24x7?logo=twitter&style=for-the-bad
 <p align="left"> <a href="https://www.dev.to/kunal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Kunal Bagaria#0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/kunalbagaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kb24x7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/kunalbagaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalbagaria" alt="kunalbagaria" /></a> </p>
 
 <b>My GitHub Stats</b>
 
