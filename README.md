@@ -7,7 +7,7 @@ I'm a Software Engineer
 * 🌍  I'm based in a remote town in India
 * 🍥  I've built [wagmi.bio](https://wagmi.bio)
 * ✉️  You can contact me at [hi@kunalbagaria.com](mailto:hi@kunalbagaria.com)
-* 🚀  I'm currently working [Wordcel](https://wordcel.club)
+* 🚀  I'm currently working on [Wordcel](https://wordcel.club)
 
 <a href="https://www.twitter.com/kb24x7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kb24x7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
